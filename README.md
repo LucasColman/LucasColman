@@ -1,6 +1,6 @@
-### Hi there 👋
-## Computer Systems Analyst Student
-- 📚 I’m currently learning everything about Frontend and Backend technologies
+# Hi there 👋
+### I'am a computer systems analyst student.
+📚 I’m currently learning everything about Frontend and Backend technologies
 
 <!--
 **LucasColman/LucasColman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
